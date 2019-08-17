@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 import './app/utils/firebase';
 //import Customer from './app/utils/routes/customer';
+//import Customer from './app/utils/routes/customer';
 import { Products } from './app/screens/customer';
 //import Farmer from './app/utils/routes/farmer';
 
